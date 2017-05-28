@@ -1,0 +1,10 @@
+c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\bin\Debug\CAClient.exe.config
+c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\bin\Debug\CAClient.exe
+c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\bin\Debug\CAClient.pdb
+c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.csprojResolveAssemblyReference.cache
+c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.Login.resources
+c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.Properties.Resources.resources
+c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.Register.resources
+c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.csproj.GenerateResource.Cache
+c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.exe
+c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.pdb
