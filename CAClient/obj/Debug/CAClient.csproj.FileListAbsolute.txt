@@ -8,3 +8,6 @@ c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionV
 c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.csproj.GenerateResource.Cache
 c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.exe
 c:\users\phong-pc\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.pdb
+C:\Users\Phong-PC\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.View.CAInfo.resources
+C:\Users\Phong-PC\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.View.CreateCertificate.resources
+C:\Users\Phong-PC\documents\visual studio 2012\Projects\FPBMTTC_MaNhom_[VersionVSNET]\CAClient\obj\Debug\CAClient.main.resources
